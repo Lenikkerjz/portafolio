@@ -440,9 +440,10 @@ xclip
 
 
 #mainNav.navbar-shrink {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #e2e2e2;
+height: 250px;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #e2e2e2;
 }
 
 #clouds{
