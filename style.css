@@ -441,8 +441,8 @@ xclip
 
 #mainNav.navbar-shrink {
 height: 250px;
-padding-top: 10px;
-padding-bottom: 10px;
+padding-top: 1px;
+padding-bottom: 1px;
 background-color: #e2e2e2;
 }
 
